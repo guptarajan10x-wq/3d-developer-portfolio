@@ -29,7 +29,7 @@ import davinci from "./tech/davinci.svg";
 import photoshop from "./tech/photoshop.svg";
 import illustrator from "./tech/illustrator.svg";
 
-import portfolioVideo from "./port/r.mp4";
+import portfolioVideo from "./port/r_compressed.mp4";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
