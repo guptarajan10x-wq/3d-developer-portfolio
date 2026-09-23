@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="ai-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#261000" />
+      <stop offset="100%" stop-color="#3D1800" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="180" height="180" rx="40" fill="url(#ai-bg)" stroke="#FF9A00" stroke-width="8" />
+  <text x="100" y="132" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="88" font-weight="900" fill="#FF9A00" text-anchor="middle" letter-spacing="-2">Ai</text>
+</svg>

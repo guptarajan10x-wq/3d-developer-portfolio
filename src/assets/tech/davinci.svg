@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="dv-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141416" />
+      <stop offset="100%" stop-color="#1F2128" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="180" height="180" rx="40" fill="url(#dv-bg)" stroke="#3D4251" stroke-width="6" />
+  <!-- DaVinci Pinwheel Petals -->
+  <g transform="translate(100, 95)">
+    <!-- Red Top -->
+    <path d="M0 0 L-22 -40 C-10 -50 10 -50 22 -40 Z" fill="#E8243A" />
+    <!-- Blue Right -->
+    <path d="M0 0 L40 -22 C50 -10 50 10 40 22 Z" fill="#1C87E8" />
+    <!-- Green Bottom -->
+    <path d="M0 0 L22 40 C10 50 -10 50 -22 40 Z" fill="#2BB673" />
+    <!-- Orange/Yellow Left -->
+    <path d="M0 0 L-40 22 C-50 10 -50 -10 -40 -22 Z" fill="#F8A51D" />
+    <circle cx="0" cy="0" r="10" fill="#141416" />
+  </g>
+  <text x="100" y="172" font-family="'Segoe UI', -apple-system, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">RESOLVE</text>
+</svg>

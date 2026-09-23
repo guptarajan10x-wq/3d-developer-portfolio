@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="c4d-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#051226" />
+      <stop offset="100%" stop-color="#022B5C" />
+    </linearGradient>
+    <linearGradient id="c4d-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00A2FF" />
+      <stop offset="100%" stop-color="#0066FF" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="180" height="180" rx="40" fill="url(#c4d-bg)" stroke="url(#c4d-glow)" stroke-width="7" />
+  <!-- Stylized 3D Cube -->
+  <path d="M100 45 L150 72 L100 100 L50 72 Z" fill="#00A2FF" opacity="0.9" />
+  <path d="M50 72 L100 100 L100 155 L50 127 Z" fill="#0077D4" opacity="0.95" />
+  <path d="M150 72 L100 100 L100 155 L150 127 Z" fill="#0055A5" />
+  <text x="100" y="180" font-family="'Segoe UI', -apple-system, sans-serif" font-size="22" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">C4D</text>
+</svg>
